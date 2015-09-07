@@ -2,9 +2,6 @@
 
 The project consist of problem set 2 for CS50x.
 
-## Code Example
-
-The code
 
 ## Motivation
 
